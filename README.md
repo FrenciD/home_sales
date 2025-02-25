@@ -1,7 +1,9 @@
 # home_sales
 
 A Spark DataFrame is created from the dataset. 
+
 A temporary table of the original DataFrame is created. 
+
 A query is written that returns the average price, rounded to two decimal places, for a four-bedroom house that was sold in each year. 
 A query is written that returns the average price, rounded to two decimal places, of a home that has three bedrooms and three bathrooms for each year the home was built. 
 A query is written that returns the average price of a home with three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet for each year the home was built rounded to two decimal places. 
